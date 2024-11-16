@@ -1,0 +1,12 @@
+{
+  "name": "line-bot-openai",
+  "version": "1.0.0",
+  "main": "api/webhook.js",
+  "scripts": {
+    "start": "node api/webhook.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",  // 用於呼叫 API
+    "express": "^4.18.2" // 簡單伺服器
+  }
+}
