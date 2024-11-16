@@ -1,5 +1,5 @@
 {
-  "name": "Palmaryv4",
+  "name": "palmaryv4",
   "version": "1.0.0",
   "main": "api/webhook.js",
   "scripts": {
